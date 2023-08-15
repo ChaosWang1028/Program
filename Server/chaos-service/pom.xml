@@ -10,10 +10,14 @@
     <packaging>pom</packaging>
     <dependencies>
         <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>3.8.1</version>
-            <scope>test</scope>
+            <groupId>com.chaos</groupId>
+            <artifactId>chaos-model</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.chaos</groupId>
+            <artifactId>chaos-common</artifactId>
+            <version>1.0</version>
         </dependency>
     </dependencies>
 
